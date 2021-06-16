@@ -1,0 +1,11 @@
+baseURL = "http://jasonwang.work/"
+languageCode = "en-us"
+title = "Jason's work"
+theme = "book"
+
+[params]
+  BookToC = true
+  
+  BookSearch = true
+
+  BookPortableLinks = true
