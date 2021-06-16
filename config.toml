@@ -1,5 +1,5 @@
 baseURL = "http://jasonwang.work/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Jason's work"
 theme = "book"
 
