@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: http://jasonwang.work/
+baseURL: "https://jasonwang.work/"
 title: Jason's work
 theme: book
 
